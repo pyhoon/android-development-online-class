@@ -14,3 +14,5 @@ https://github.com/pyhoon/android-development-online-class/raw/main/Beginner%20A
 
 <img src="https://github.com/pyhoon/android-development-online-class/blob/main/1.png" title="1" height="400" />
 <img src="https://github.com/pyhoon/android-development-online-class/blob/main/2.png" title="2" height="400" />
+
+Disclaimer: All the logo and trademarks used are copyright of the respective owners. Please do not redistribute or reuse this material for commercial purposes.
